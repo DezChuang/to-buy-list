@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+/logs
+.nuxt
+dist
+build
+.jest-test-results.json
+.env
+star.env
+yarn-error.log
+**/*.test.js
+**/*.stories.js
+*.config.js
